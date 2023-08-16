@@ -1,0 +1,2 @@
+# TesteTargetWork
+ Projeto .Net Core
